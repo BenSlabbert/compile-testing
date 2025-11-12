@@ -22,8 +22,8 @@
     <truth.version>1.4.5</truth.version>
     <junit.version>4.13.2</junit.version>
     <guava.version>33.5.0-jre</guava.version>
-    <error_prone_annotations.version>2.43.0</error_prone_annotations.version>
-    <autovalue.version>1.11.0</autovalue.version>
+    <error_prone_annotations.version>2.44.0</error_prone_annotations.version>
+    <autovalue.version>1.11.1</autovalue.version>
     <auto-common.version>1.2.2</auto-common.version>
     <jspecify.version>1.0.0</jspecify.version>
     <maven-compiler-plugin.version>3.14.1</maven-compiler-plugin.version>
